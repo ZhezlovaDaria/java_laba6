@@ -1,0 +1,17 @@
+shopd\config\HibernateSessionFactoryUtil.class
+shopd\model\Buyer.class
+shopd\DAO\OrdersDAOImpl.class
+shopd\services\OrdersService.class
+shopd\config\SpringConfig.class
+shopd\model\Goods.class
+shopd\services\GoodsServiceImpl.class
+shopd\DAO\GoodsDAOImpl.class
+shopd\config\AppInitializer.class
+shopd\config\WebConfig.class
+shopd\DAO\GoodsDAO.class
+shopd\services\OrdersServiceImpl.class
+shopd\model\MyException.class
+shopd\model\Order.class
+shopd\services\GoodsService.class
+shopd\controller\ShopController.class
+shopd\DAO\OrdersDAO.class
